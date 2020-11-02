@@ -1,0 +1,13 @@
+C:\Users\patri\OneDrive\Assignments\CAD Tech\ISTA 421 Cloud App Dev\Labs\TicTacToe2\TicTacToe2\bin\Debug\netcoreapp3.1\TicTacToe2.exe
+C:\Users\patri\OneDrive\Assignments\CAD Tech\ISTA 421 Cloud App Dev\Labs\TicTacToe2\TicTacToe2\bin\Debug\netcoreapp3.1\TicTacToe2.deps.json
+C:\Users\patri\OneDrive\Assignments\CAD Tech\ISTA 421 Cloud App Dev\Labs\TicTacToe2\TicTacToe2\bin\Debug\netcoreapp3.1\TicTacToe2.runtimeconfig.json
+C:\Users\patri\OneDrive\Assignments\CAD Tech\ISTA 421 Cloud App Dev\Labs\TicTacToe2\TicTacToe2\bin\Debug\netcoreapp3.1\TicTacToe2.runtimeconfig.dev.json
+C:\Users\patri\OneDrive\Assignments\CAD Tech\ISTA 421 Cloud App Dev\Labs\TicTacToe2\TicTacToe2\bin\Debug\netcoreapp3.1\TicTacToe2.dll
+C:\Users\patri\OneDrive\Assignments\CAD Tech\ISTA 421 Cloud App Dev\Labs\TicTacToe2\TicTacToe2\bin\Debug\netcoreapp3.1\TicTacToe2.pdb
+C:\Users\patri\OneDrive\Assignments\CAD Tech\ISTA 421 Cloud App Dev\Labs\TicTacToe2\TicTacToe2\obj\Debug\netcoreapp3.1\TicTacToe2.csprojAssemblyReference.cache
+C:\Users\patri\OneDrive\Assignments\CAD Tech\ISTA 421 Cloud App Dev\Labs\TicTacToe2\TicTacToe2\obj\Debug\netcoreapp3.1\TicTacToe2.AssemblyInfoInputs.cache
+C:\Users\patri\OneDrive\Assignments\CAD Tech\ISTA 421 Cloud App Dev\Labs\TicTacToe2\TicTacToe2\obj\Debug\netcoreapp3.1\TicTacToe2.AssemblyInfo.cs
+C:\Users\patri\OneDrive\Assignments\CAD Tech\ISTA 421 Cloud App Dev\Labs\TicTacToe2\TicTacToe2\obj\Debug\netcoreapp3.1\TicTacToe2.csproj.CoreCompileInputs.cache
+C:\Users\patri\OneDrive\Assignments\CAD Tech\ISTA 421 Cloud App Dev\Labs\TicTacToe2\TicTacToe2\obj\Debug\netcoreapp3.1\TicTacToe2.dll
+C:\Users\patri\OneDrive\Assignments\CAD Tech\ISTA 421 Cloud App Dev\Labs\TicTacToe2\TicTacToe2\obj\Debug\netcoreapp3.1\TicTacToe2.pdb
+C:\Users\patri\OneDrive\Assignments\CAD Tech\ISTA 421 Cloud App Dev\Labs\TicTacToe2\TicTacToe2\obj\Debug\netcoreapp3.1\TicTacToe2.genruntimeconfig.cache
